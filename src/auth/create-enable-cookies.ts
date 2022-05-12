@@ -48,7 +48,7 @@ export default function createEnableCookies({prefix}: OAuthStartOptions) {
   </script>
 </head>
 <body>
-  <main id="TopLevelInteractionContent">
+  <main style='display:none' id="TopLevelInteractionContent">
     <div class="Polaris-Page">
       <div class="Polaris-Page__Content">
         <div class="Polaris-Layout">
